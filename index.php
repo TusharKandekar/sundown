@@ -9,11 +9,17 @@
     <link rel="shortcut icon" href="/icon.png" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
 
+
 </head>
 
 <body>
-    <div id="main" class="min-h-[100vh] bg-[#efeae3]">
-        <div class="flex items-center justify-center px-8 py-8">
+    <div id="loader">
+        <h1>ENVIRONMENTS</h1>
+        <h1>EXPERIENCES</h1>
+        <h1>CONTENT</h1>
+    </div>
+    <div id="main" class="min-h-[100vh] bg-[#efeae3] px-8 py-8">
+        <div class="flex items-center justify-center  w-full">
             <nav class="flex items-center justify-between w-full">
                 <img src="https://uploads-ssl.webflow.com/64d3dd9edfb41666c35b15b7/64d3dd9edfb41666c35b15c2_Sundown%20logo.svg" alt="">
                 <div class="flex items-center justify-center gap-4 relative ">
@@ -29,8 +35,16 @@
             </nav>
 
         </div>
+        <div class="flex w-full h-[69.5vh] items-end  pb-8  justify-between  border-b border-[#b7b3ae]">
+            <h2 class="text-3xl">Sundown is a multi-disciplinary<br>studio focused on creating<br> unique,end-to-end experiences<br>and environments.</h2>
+            <h1 class="text-[23vh] leading-[19vh] text-right">SPACES<br>
+                THAT<br>
+                INSPIRE
+            </h1>
+        </div>
 
     </div>
+    <script src="script.js"></script>
 </body>
 
 </html>
