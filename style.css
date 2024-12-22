@@ -79,4 +79,32 @@ bottom: 0;
 #loader h1:nth-child(3){
     animation-delay: 3s;
 }
+.animate-circle{
+
+    animation-name: anime1;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+
+}
 /* Add more styles as needed */
+@keyframes anime1 {
+    from {
+        transform: translate(55%, -10%);
+    }
+
+    to {
+        transform: translate(0%, 20%);
+    }
+}
+
+@keyframes anime2 {
+    from {
+        transform: translate(5%, -5%);
+    }
+
+    to {
+        transform: translate(-20%, 30%);
+    }
+}
