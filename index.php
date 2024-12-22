@@ -13,10 +13,10 @@
 </head>
 
 <body>
-    <div id="loader">
-        <h1>ENVIRONMENTS</h1>
-        <h1>EXPERIENCES</h1>
-        <h1>CONTENT</h1>
+    <div id="loader" class="loader h-full w-full bg-black z-[99999] absolute top-0  flex items-center justify-center">
+        <h1 class="text-transparent text-6xl bg-gradient-to-l from-orange-600 to-yellow-300 bg-clip-text absolute">ENVIRONMENTS</h1>
+        <h1 class="text-transparent text-6xl bg-gradient-to-l from-orange-600 to-yellow-300 bg-clip-text absolute">EXPERIENCES</h1>
+        <h1 class="text-transparent text-6xl bg-gradient-to-l from-orange-600 to-yellow-300 bg-clip-text absolute">CONTENT</h1>
     </div>
     <div id="main" class="min-h-[100vh] bg-[#efeae3] px-8 py-8">
         <div class="flex items-center justify-center  w-full">
