@@ -77,8 +77,8 @@
 
 
         </div>
-        <div class="w-full flex items-center justify-center">
-            <div class="w-[90%] h-[70vh] flex items-start justify-between relative">
+        <div class="w-full flex items-center justify-center ">
+            <div class="w-[90%] h-[70vh] flex items-start justify-between relative border-b border-[#b7b3ae] ">
                 <h2 class="text-[3.9vw] leading-[4vw] z-10">We are a group of design-<br> driven, goal-focused creators,<br> producers, and designers who <br> believe that the details make all <br> the difference.</h2>
                 <div class="w-[20vw] flex flex-col gap-10 items-center justify-center">
                     <img class="rounded-2xl" src="https://uploads-ssl.webflow.com/64d3dd9edfb41666c35b15b7/64d3dd9edfb41666c35b15d1_Holding_thumb-p-500.jpg"
@@ -93,7 +93,7 @@
             </div>
 
         </div>
-
+<div class="h-[50vh] w-full flex items-center justify-center"></div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js"></script>
 

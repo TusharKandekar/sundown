@@ -155,7 +155,7 @@ animation-direction: alternate;
 }
 @keyframes anime4 {
     from {
-        transform: translate(-40%, -30%);
+        transform: translate(-80%, -30%);
     }
 
     to {
