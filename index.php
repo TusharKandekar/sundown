@@ -93,7 +93,40 @@
             </div>
 
         </div>
-<div class="h-[50vh] w-full flex items-center justify-center"></div>
+        <div class=" w-full flex flex-col items-center justify-center py-[8vh]">
+            <div class="w-full align-center justify-between border-b border-[#b7b3ae] py-[6vh]">
+                <h2 class="pl-8 text-[3vw] leading-[3.8vw]">
+                    Makers Studio HOI</h2>
+            </div>
+            <div class="w-full align-center justify-between border-b border-[#b7b3ae] py-[6vh]">
+                <h2 class="pl-8 text-[3vw] leading-[3.8vw]">
+                    
+50th Anniversary</h2>
+            </div>
+            <div class="w-full align-center justify-between border-b border-[#b7b3ae] py-[6vh]">
+                <h2 class="pl-8 text-[3vw] leading-[3.8vw]">
+                    
+NYFW Popup</h2>
+            </div>
+            <div class="w-full align-center justify-between border-b border-[#b7b3ae] py-[6vh]">
+                <h2 class="pl-8 text-[3vw] leading-[3.8vw]">
+                    
+Air Force 1 2021</h2>
+            </div>
+            <div class="w-full align-center justify-between border-b border-[#b7b3ae] py-[6vh]">
+                <h2 class="pl-8 text-[3vw] leading-[3.8vw]">
+                    
+SOHO NYC</h2>
+            </div>
+            <div class="w-full align-center justify-between border-b border-[#b7b3ae] py-[6vh]">
+                <h2 class="pl-8 text-[3vw] leading-[3.8vw]">
+                SOHO 2023</h2>
+            </div>
+            <div class="w-full align-center justify-between border-b border-[#b7b3ae] py-[6vh]">
+                <h2 class="pl-8 text-[3vw] leading-[3.8vw]">
+                Play New Kidvision</h2>
+            </div>
+        </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js"></script>
 
