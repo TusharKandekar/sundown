@@ -108,3 +108,24 @@ bottom: 0;
         transform: translate(-20%, 30%);
     }
 }
+.slider{
+
+    animation-name: slider1;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+
+}
+@keyframes slider1{
+
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}
+.slider-parent::-webkit-scrollbar{
+
+    display:none
+}
