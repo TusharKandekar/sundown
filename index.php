@@ -15,11 +15,11 @@
 </head>
 
 <body>
-    <!-- <div id="loader" class="loader h-full w-full bg-black z-[99999] absolute top-0  flex items-center justify-center">
+    <div id="loader" class="loader h-full w-full bg-black z-[99999] absolute top-0  flex items-center justify-center">
         <h1 class="text-transparent text-6xl bg-gradient-to-l from-orange-600 to-yellow-300 bg-clip-text absolute">ENVIRONMENTS</h1>
         <h1 class="text-transparent text-6xl bg-gradient-to-l from-orange-600 to-yellow-300 bg-clip-text absolute">EXPERIENCES</h1>
         <h1 class="text-transparent text-6xl bg-gradient-to-l from-orange-600 to-yellow-300 bg-clip-text absolute">CONTENT</h1>
-    </div> -->
+    </div>
     <div id="main" class="min-h-[100vh] bg-[#efeae3]  py-8 overflow-hidden">
         <div class="flex items-center justify-center  w-full px-8">
             <nav class="flex items-center justify-between w-full">
@@ -130,7 +130,7 @@ SOHO NYC</h2>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js"></script>
 
-    <script src="script.js"></script>
+    <script src="/script.js"></script>
 </body>
 
 </html>
